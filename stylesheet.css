@@ -1,0 +1,197 @@
+.welcome {
+	color: white;
+	margin-right: 150px;
+
+}
+
+nav a:hover {
+
+	background-color: rgb(255, 135, 135);
+	border: rgb(255, 135, 135);
+	border-radius: 20px;
+    color: #ffffff;
+    padding: 10px;
+
+}
+
+hr {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: rgb(0, 0, 0, 0.8);
+}
+
+h1 {
+
+	font-family: monospace;
+	color: black;
+	text-align: center;
+	background: rgba(229, 235, 178, 0.3);
+	font-size: 60px;
+	margin: 0px;
+	border: 2px solid black;
+	padding: 3px;
+	margin-top: 20px;
+
+}
+
+body {
+	height: 100%;
+	width: 99%;
+	background-image: url(mountain.jpeg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.b1 {
+	height: 100%;
+	width: 99%;
+	background-image: url(art.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.b2 {
+	height: 100%;
+	width: 99%;
+	background-image: url(mountainred.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.b3 {
+	height: 100%;
+	width: 99%;
+	background-image: url(redmountain.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.b4 {
+	height: 100%;
+	width: 99%;
+	background-image: url(mountred.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.p1 {
+
+	color: black;
+	background: rgb(255, 100, 100, 0.3);
+	font-size: 20px;
+	padding: 15px;
+	border: 3px solid black;
+	text-align: center;
+
+}
+
+img {
+	height: 20%;
+	width: 20%;
+	background-image: url(elementary.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 50%;
+	float: left;
+	border: solid black 3px;
+
+}
+
+.p2 {
+
+	color: black;
+	background: rgb(15, 52, 96, 0.5);
+	font-size: 20px;
+	padding: 15px;
+	border: 3px solid black;
+	text-align: center;
+
+}
+
+.p3 {
+
+	color: black;
+	background: rgb(15, 52, 96, 0.5);
+	font-size: 20px;
+	padding: 15px;
+	border: 3px solid black;
+	text-align: center;
+}
+
+.p4 {
+	font-size: 50px;
+}
+
+.p5 {
+	font-size: 50px;
+}
+
+.a1 {
+	color: red;
+	text-decoration: none;
+}
+
+.pag1 {
+	font-size: 100px;
+	text-align: center;
+}
+
+.f1 {
+	height: 500px;
+	width: 600px;
+	margin-left: 350px;
+	padding: 5px;
+}
+
+p:hover {
+	color: white;
+	font-family: none;
+}
+
+table {
+
+	font-size: 20px;
+	width: 100%;
+	border: 2px;
+	border-radius: 10px;
+	border-color: black;
+	padding: 20px;
+	margin-top: 100px;
+	color: rgb(184, 232, 252);
+	background-color: rgb(0, 0, 0, 0.5);
+}
+
+th {
+
+	font-size: 100px;
+	width: 20%;
+	border: 2px;
+	border-radius: 10px;
+	border-color: black;
+	padding: 3px;
+
+}
+
+th:hover {
+	color: rgb(248, 255, 219)
+}	
+
+audio {
+	height: 70px;
+	width: 80%;
+	margin-left: 110px;
+}
+
+
+.carousel {
+  width:640px;
+  height:360px;
+}
